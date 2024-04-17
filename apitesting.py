@@ -1,8 +1,8 @@
 import requests
 
 # User credentials
-username = 'discover786'
-password = '#Sunny786'
+username = 'gpranshu'
+password = 'Password@123'
 
 # API endpoints
 login_url = 'http://localhost:8000/api/login/'
